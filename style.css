@@ -16,7 +16,7 @@ body {
 }
 @media (max-width:600px){
   #carouselPhotos{
-    margin-top:50% ;
+    margin-top:30% ;
     top:0;
     bottom:0;
   }
